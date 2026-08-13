@@ -1,0 +1,9 @@
+{
+  "orden_proveedores": ["openai", "anthropic", "gemini"],
+  "mensaje_error": "En este momento no pudo responder tu pregunta, por favor intenta mas tarde.",
+  "temperature": 0.7,
+  "max_tokens": 500,
+  "intentos_retry": 2,
+  "modo_ejecucion": "asincrono",
+  "modo_streaming": true
+}
